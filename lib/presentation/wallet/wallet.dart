@@ -1,0 +1,1 @@
+export 'pages/wallet_page.dart';
